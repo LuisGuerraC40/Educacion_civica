@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:9de6e9be-1ad9-42c6-9740-c5639d47763b</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:title>[Title here]</dc:title>
+    <meta content="1.9.20" name="Sigil version"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2022-11-14</dc:date>
+  </metadata>
+  <manifest>
+    <item id="Portada.xhtml" href="Text/Portada.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="Creditos.xhtml" href="Text/Creditos.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Contraportada.xhtml" href="Text/Contraportada.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Prologo.xhtml" href="Text/Prologo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Indice.xhtml" href="Text/Indice.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Frase.xhtml" href="Text/Frase.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Introduccion.xhtml" href="Text/Introduccion.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Styles1.css" href="Styles/Styles1.css" media-type="text/css"/>
+    <item id="Fontin-SmallCaps.otf" href="Fonts/Fontin-SmallCaps.otf" media-type="font/otf"/>
+    <item id="x1.png" href="Images/1.png" media-type="image/png"/>
+    <item id="CaracterFirme.xhtml" href="Text/CaracterFirme.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2.png" href="Images/2.png" media-type="image/png"/>
+    <item id="x3.png" href="Images/3.png" media-type="image/png"/>
+    <item id="x4.png" href="Images/4.png" media-type="image/png"/>
+    <item id="x5.png" href="Images/5.png" media-type="image/png"/>
+    <item id="x6.png" href="Images/6.png" media-type="image/png"/>
+    <item id="x7.png" href="Images/7.png" media-type="image/png"/>
+    <item id="x8.png" href="Images/8.png" media-type="image/png"/>
+    <item id="BuenCaracter.xhtml" href="Text/BuenCaracter.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9.png" href="Images/9.png" media-type="image/png"/>
+    <item id="x10.png" href="Images/10.png" media-type="image/png"/>
+    <item id="x11.png" href="Images/11.png" media-type="image/png"/>
+    <item id="Actividades.xhtml" href="Text/Actividades.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12.png" href="Images/12.png" media-type="image/png"/>
+    <item id="x13.png" href="Images/13.png" media-type="image/png"/>
+    <item id="x14.png" href="Images/14.png" media-type="image/png"/>
+    <item id="x15.png" href="Images/15.png" media-type="image/png"/>
+    <item id="x16.png" href="Images/16.png" media-type="image/png"/>
+    <item id="x17.png" href="Images/17.png" media-type="image/png"/>
+    <item id="x18.png" href="Images/18.png" media-type="image/png"/>
+    <item id="x19.png" href="Images/19.png" media-type="image/png"/>
+    <item id="x20.png" href="Images/20.png" media-type="image/png"/>
+    <item id="x21.png" href="Images/21.png" media-type="image/png"/>
+    <item id="x22.png" href="Images/22.png" media-type="image/png"/>
+    <item id="Presiones.xhtml" href="Text/Presiones.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x23.png" href="Images/23.png" media-type="image/png"/>
+    <item id="Maestros.xhtml" href="Text/Maestros.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x24.png" href="Images/24.png" media-type="image/png"/>
+    <item id="Recursos.xhtml" href="Text/Recursos.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Bibliografia.xhtml" href="Text/Bibliografia.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Reconocimientos.xhtml" href="Text/Reconocimientos.xhtml" media-type="application/xhtml+xml"/>
+    <item id="NingunoAtras.xhtml" href="Text/NingunoAtras.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Portada.xhtml"/>
+    <itemref idref="Creditos.xhtml"/>
+    <itemref idref="Contraportada.xhtml"/>
+    <itemref idref="Prologo.xhtml"/>
+    <itemref idref="Indice.xhtml"/>
+    <itemref idref="Frase.xhtml"/>
+    <itemref idref="Introduccion.xhtml"/>
+    <itemref idref="CaracterFirme.xhtml"/>
+    <itemref idref="BuenCaracter.xhtml"/>
+    <itemref idref="Actividades.xhtml"/>
+    <itemref idref="Presiones.xhtml"/>
+    <itemref idref="Maestros.xhtml"/>
+    <itemref idref="Recursos.xhtml"/>
+    <itemref idref="Bibliografia.xhtml"/>
+    <itemref idref="Reconocimientos.xhtml"/>
+    <itemref idref="NingunoAtras.xhtml"/>
+  </spine>
+</package>

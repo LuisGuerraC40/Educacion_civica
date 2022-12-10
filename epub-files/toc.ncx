@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:9de6e9be-1ad9-42c6-9740-c5639d47763b"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Cómo ayudar a su hijo a ser un ciudadano responsable</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Prólogo</text>
+      </navLabel>
+      <content src="Text/Prologo.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Introducción</text>
+      </navLabel>
+      <content src="Text/Introduccion.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>¿Qué significa tener un “carácter firme?”</text>
+      </navLabel>
+      <content src="Text/CaracterFirme.xhtml"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Compasión</text>
+        </navLabel>
+        <content src="Text/CaracterFirme.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Honestidad y justicia</text>
+        </navLabel>
+        <content src="Text/CaracterFirme.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Autodisciplina</text>
+        </navLabel>
+        <content src="Text/CaracterFirme.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Buen juicio</text>
+        </navLabel>
+        <content src="Text/CaracterFirme.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Respeto por otras personas</text>
+        </navLabel>
+        <content src="Text/CaracterFirme.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Amor propio</text>
+        </navLabel>
+        <content src="Text/CaracterFirme.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Valor</text>
+        </navLabel>
+        <content src="Text/CaracterFirme.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Responsabilidad</text>
+        </navLabel>
+        <content src="Text/CaracterFirme.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Ciudadanía y patriotismo</text>
+        </navLabel>
+        <content src="Text/CaracterFirme.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>¿Cómo podemos ayudar a nuestros niños a aprender sobre el buen carácter?”</text>
+      </navLabel>
+      <content src="Text/BuenCaracter.xhtml"/>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Cómo poner un buen ejemplo</text>
+        </navLabel>
+        <content src="Text/BuenCaracter.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Cómo fijar normas altas y expectativas claras</text>
+        </navLabel>
+        <content src="Text/BuenCaracter.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Cómo adiestrar a su niño</text>
+        </navLabel>
+        <content src="Text/BuenCaracter.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Cómo utilizar la literatura</text>
+        </navLabel>
+        <content src="Text/BuenCaracter.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Actividades</text>
+      </navLabel>
+      <content src="Text/Actividades.xhtml"/>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Conozcamos a otras personas desde lejos y cerca de nosotros</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Regalos del corazón</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Cómo decir la verdad</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Piénsalo</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Sigue intentando</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Cómo tomar decisiones</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Palabras mágicas, actos caritativos</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>¡Hay un monstruo en mi cuarto!</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>¡HUY!</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Cómo defenderse</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Cómo ser ayudador</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Más allá de los deberes</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>¡Nuestros héroes!</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>¿Cómo puedo ayudar?</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Cómo sobrellevar tiempos difíciles</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>¿Eres mi amigo?</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Hazle caso a tus sentimientos</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Comparte una historia</text>
+        </navLabel>
+        <content src="Text/Actividades.xhtml#sigil_toc_id_31"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Cómo enfrentar las presiones que imponen los medios de comunicación</text>
+      </navLabel>
+      <content src="Text/Presiones.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Cómo trabajar con los maestros y las escuelas para fortalecer el carácter</text>
+      </navLabel>
+      <content src="Text/Maestros.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Recursos</text>
+      </navLabel>
+      <content src="Text/Recursos.xhtml"/>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Libros que pueden apoyar el desarrollo del buen carácter</text>
+        </navLabel>
+        <content src="Text/Recursos.xhtml#sigil_toc_id_32"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Revistas infantiles</text>
+        </navLabel>
+        <content src="Text/Recursos.xhtml#sigil_toc_id_33"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Listas de libros</text>
+        </navLabel>
+        <content src="Text/Recursos.xhtml#sigil_toc_id_34"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Reconocimientos</text>
+      </navLabel>
+      <content src="Text/Reconocimientos.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Que ningún niño se quede atrás</text>
+      </navLabel>
+      <content src="Text/NingunoAtras.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
